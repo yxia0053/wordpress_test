@@ -9,6 +9,3 @@ permalink: >
 published: true
 post_date: 2020-08-30 14:21:34
 ---
-Select a susurb
-
-[searchandfilter fields="category"]
