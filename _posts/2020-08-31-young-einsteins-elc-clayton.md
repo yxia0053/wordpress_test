@@ -1,5 +1,5 @@
 ---
-ID: 566
+ID: 664
 post_title: Young Einsteins ELC Clayton
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/young-einsteins-elc-clayton/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Our aim is to provide a Pre-Kindi and Kindergarten program that is designed to promote self-development via physical, intellectual, social and emotional stimulation with a strong emphasis on interactive learning and structured play activities which engages imagination and interest.</em>
 
