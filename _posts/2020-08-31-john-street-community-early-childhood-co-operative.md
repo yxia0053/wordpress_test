@@ -1,5 +1,5 @@
 ---
-ID: 560
+ID: 658
 post_title: >
   John Street Community Early Childhood
   Co-operative
@@ -9,7 +9,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/john-street-community-early-childhood-co-operative/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>We design our children’s programs to be completely hands-on, whilst focusing on each child’s interests, thereby ensuring the child’s individual needs are being met.</em>
 
