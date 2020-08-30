@@ -1,5 +1,5 @@
 ---
-ID: 562
+ID: 660
 post_title: Acacia Fitzroy Creche
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/acacia-fitzroy-creche/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Our educational programs reflect the full appreciation of Australia’s multicultural society, enhancing the children’s awareness of, and respect for, cultural differences and similarities.</em>
 
