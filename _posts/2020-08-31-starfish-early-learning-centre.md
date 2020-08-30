@@ -1,5 +1,5 @@
 ---
-ID: 564
+ID: 662
 post_title: Starfish Early Learning Centre
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/starfish-early-learning-centre/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>We are committed to providing opportunities of play for children to express their “hundred languages” by exploring, investigating, discovering, hypothesising, imagining, creating and making connections.</em>
 
