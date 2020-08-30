@@ -1,5 +1,5 @@
 ---
-ID: 567
+ID: 665
 post_title: Good Shepherd Lutheran OSHClub
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/good-shepherd-lutheran-oshclub/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Building brighter futures together in partnership with parents and school communities by supporting children to learn through play in fun, rich learning environments.</em>
 
