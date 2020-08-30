@@ -1,5 +1,5 @@
 ---
-ID: 565
+ID: 663
 post_title: >
   Bright Horizons Australia Childcare
   Croydon North
@@ -9,7 +9,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/bright-horizons-australia-childcare-croydon-north/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Through our curriculum, we aim to provide a framework that forms a basis for consistency in our programs and education, whilst also providing a quality environment for children from birth to school age.</em>
 
