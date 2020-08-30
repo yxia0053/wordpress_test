@@ -1,5 +1,5 @@
 ---
-ID: 568
+ID: 666
 post_title: >
   Clarinda Primary School Out of School
   Hours Care
@@ -9,7 +9,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/clarinda-primary-school-out-of-school-hours-care/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Kingston Council is proud to partner with Clarinda Primary school to offer a fun and exciting Before and After School Program that operates each day of the school term (excluding public holidays) in a supervised, relaxed, safe and fun environment.</em>
 
