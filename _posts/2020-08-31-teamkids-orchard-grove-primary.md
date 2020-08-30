@@ -1,5 +1,5 @@
 ---
-ID: 570
+ID: 677
 post_title: 'TeamKids &#8211; Orchard Grove Primary'
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/teamkids-orchard-grove-primary/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>We exist to enrich, excite and entertain children by providing before school care, after school care and holiday programs. Our primary goal is to support families and ensure that children enjoy a nurturing and fun experience whilst in our care.</em>
 
