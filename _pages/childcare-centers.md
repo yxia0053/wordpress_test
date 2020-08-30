@@ -9,4 +9,8 @@ permalink: >
 published: true
 post_date: 2020-08-30 14:21:34
 ---
-[searchandfilter fields="search,category,post_tag"]
+<p>[searchandfilter fields="search,category,post_tag"]</p>
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
