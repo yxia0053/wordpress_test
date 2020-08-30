@@ -1,5 +1,5 @@
 ---
-ID: 569
+ID: 676
 post_title: 'Holbury Children&#8217;s Centre'
 author: yxia0053
 post_excerpt: ""
@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://localhost/wordpress/index.php/2020/08/31/holbury-childrens-centre/
 published: true
-post_date: 2020-08-31 06:50:28
+post_date: 2020-08-31 06:56:51
 ---
 <em>Our 3 and 4 year old kindergarten promotes individual development and creates opportunities to further develop and challenge the children’s own ideas, skills and knowledge.</em>
 
