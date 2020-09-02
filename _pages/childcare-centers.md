@@ -8,4 +8,3 @@ permalink: http://localhost/wordpress/
 published: true
 post_date: 2020-08-30 20:29:40
 ---
-<p>[pgaf_post_grid]</p>
